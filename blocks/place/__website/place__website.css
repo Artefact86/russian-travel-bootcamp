@@ -1,5 +1,5 @@
 .place__website {
-  width: 456px;
+  max-width: 456px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -7,4 +7,44 @@
   margin-left: 40px;
   grid-area: website;
   align-self: flex-end;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__website {
+    max-width: 456px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 48px;
+    margin-left: 32px;
+    grid-area: website;
+    align-self: flex-end;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__website {
+    max-width: 352px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 48px;
+    margin-left: 28px;
+    grid-area: website;
+    align-self: flex-end;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    max-width: 288px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 32px;
+    grid-area: website;
+    align-self: flex-end;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
