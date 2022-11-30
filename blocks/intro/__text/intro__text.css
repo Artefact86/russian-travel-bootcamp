@@ -5,35 +5,17 @@
   line-height: 163%;
   max-width: 690px;
   margin-bottom: 33px;
-  font-family: 'Inter';
-  font-style: italic;
-}
-
-@media screen and (max-width: 1024px) {
-  .intro__text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 163%;
-    max-width: 690px;
-    margin-bottom: 33px;
-  }
+  font-family: Inter;
 }
 
 @media screen and (max-width: 768px) {
   .intro__text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 163%;
     max-width: 720px;
-    margin-bottom: 33px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro__text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 163%;
     max-width: 288px;
     margin-bottom: 34px;
     margin-top: 0;

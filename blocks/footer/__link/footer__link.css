@@ -5,12 +5,12 @@
  line-height: 18px;
  text-decoration: none;
  margin-right: 18px;
+ font-family: Inter;
 }
 
 @media screen and (max-width: 320px) {
   .footer__link {
     font-size: 24px;
-    font-weight: 400;
     line-height: 24px;
     margin-bottom: 32px;
   }
