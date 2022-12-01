@@ -9,6 +9,7 @@
     font-family: Inter;
     text-decoration: underline;
 }
+
 @media screen and (max-width: 320px) {
     .header__lang-link-ru {
       max-width: 22px;

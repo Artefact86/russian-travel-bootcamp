@@ -2,6 +2,8 @@
   color: #AAAAAA;
   margin: 0;
   font-size: 12px;
-  font-weight: 200;
+  font-weight: 400;
   font-family: Inter;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
