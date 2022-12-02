@@ -6,7 +6,7 @@
   line-height: 22px;
   font-family: Inter, sans-serif;
   font-weight: 400;
-  transition: 1s;
+  transition: opacity .5s linear;
 }
 
 .place__website-link:hover {

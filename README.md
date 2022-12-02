@@ -11,4 +11,4 @@
 Подключенный шрифт:
 - Inter
 
-Ссылка на проект: [link](https://github.com/Artefact86/russian-travel-bootcamp.git).
+Ссылка на проект: [link](https://artefact86.github.io/russian-travel-bootcamp/).
