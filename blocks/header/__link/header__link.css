@@ -9,10 +9,6 @@
     transition: opacity .5s linear;
 }
 
-.header__link:last-child {
-  margin-left: 18px;
-}
-
 .header__link:hover {
   opacity: .5;
 }
